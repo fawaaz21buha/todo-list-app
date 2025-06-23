@@ -14,4 +14,4 @@ A simple task manager built using JavaScript.
 - Responsive UI
 
 ## 🚀 Live Demo
-[View App](https://fawaaz21buha.github.io/todo-list-app)
+[View App](https://fawaaz21buha.github.io/todo-list-app/)
